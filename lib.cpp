@@ -7,5 +7,5 @@
 
 int version() {
 
-    return PROJECT_PATCH_VERSION;
+    return PROJECT_VERSION_PATCH;
 }
