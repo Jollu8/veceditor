@@ -6,5 +6,6 @@
 #include "version.h"
 
 int version() {
+
     return PROJECT_PATCH_VERSION;
 }
