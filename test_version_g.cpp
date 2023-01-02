@@ -1,5 +1,5 @@
 #include "lib.h"
-#include <getest/gtest.h>
+#include <gtest/gtest.h>
 #include <gmock/gmock.h>
 #include <memory>
 #include "component.h"
