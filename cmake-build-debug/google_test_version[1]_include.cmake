@@ -1,0 +1,5 @@
+if(EXISTS "/Users/jolluemil/Desktop/VecEditor/veceditor/cmake-build-debug/google_test_version[1]_tests.cmake")
+  include("/Users/jolluemil/Desktop/VecEditor/veceditor/cmake-build-debug/google_test_version[1]_tests.cmake")
+else()
+  add_test(google_test_version_NOT_BUILT google_test_version_NOT_BUILT)
+endif()
